@@ -1,0 +1,13 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash log files
+crash.log
+
+# Terraform plan files
+*.tfplan
+
+# Directory where Terraform plugin downloads and manages plugins
+.terraform/
+
